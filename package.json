@@ -1,0 +1,23 @@
+{
+  "name": "restful-api-using-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmkarKadoli/RESTful-API_Using_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmkarKadoli/RESTful-API_Using_NodeJS/issues"
+  },
+  "homepage": "https://github.com/OmkarKadoli/RESTful-API_Using_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
